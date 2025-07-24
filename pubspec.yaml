@@ -1,0 +1,19 @@
+
+name: lirios_para_victoria
+description: Una app poética con lirios para Victoria.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^5.2.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/lirio.png
+    - assets/audio/fondo.mp3
