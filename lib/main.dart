@@ -47,7 +47,7 @@ class _LiriosScreenState extends State<LiriosScreen> {
                 Image.asset('assets/lirios.png'),
                 SizedBox(height: 20),
                 Text(
-                  'Lirios virtuales para Victoria,\ncon cariño de Enrique 🌸',
+                  'Lirios virtuales para Victoria,\ncon cariño de R 🌸',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.lightBlue[100],
